@@ -7,9 +7,9 @@ Document Scanner
 <img width="200" alt="Demo1" src="https://github.com/sbpinilla/document-scanner/blob/master/demo/1.png">
 
 ### DEMO 2
-<img width="200" alt="Demo2" src="https://github.com/sbpinilla/document-scanner/blob/master/demo/2.jpg">
+<img width="200" alt="Demo2" src="https://github.com/sbpinilla/document-scanner/blob/master/demo/2.JPG">
 
-### DEMO 4
+### DEMO 3
 <img width="200" alt="Demo3" src="https://github.com/sbpinilla/document-scanner/blob/master/demo/3.png">
 
 
